@@ -55,7 +55,7 @@ This project was successfully published in the **IEEE Xplore Digital Library** a
 This project was published at the **2024 5th International Conference on Intelligent Computing and Control Systems (ICICCS)**.
 
 - **IEEE Paper**: [Emergency Alert System for Visually and Loss of Hearing People](https://ieeexplore.ieee.org/document/10962765)
-- **DOI**: [10.1109/ICICV57966.2024.10962765](https://doi.org/10.1109/ICICV57966.2024.10962765)
+- **DOI**: [10.1109/ICICV57966.2024.10962765](https://doi.org/10.1109/ESIC64052.2025.10962765)
 
 ### Citation (BibTeX)
 
